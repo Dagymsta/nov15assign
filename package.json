@@ -1,0 +1,15 @@
+{
+  "name": "nov16assign",
+  "version": "1.0.0",
+  "description": "\"assignment for nov 16th\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "burrito": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
